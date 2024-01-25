@@ -1,0 +1,12 @@
+C:\Users\233\Desktop\PA\file_encryption_decryption\bin\Debug\net6.0-windows\file_encryption_decryption.deps.json
+C:\Users\233\Desktop\PA\file_encryption_decryption\bin\Debug\net6.0-windows\file_encryption_decryption.dll
+C:\Users\233\Desktop\PA\file_encryption_decryption\bin\Debug\net6.0-windows\file_encryption_decryption.pdb
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.csproj.AssemblyReference.cache
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.AssemblyInfoInputs.cache
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.AssemblyInfo.cs
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.csproj.CoreCompileInputs.cache
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.dll
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\refint\file_encryption_decryption.dll
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\file_encryption_decryption.pdb
+C:\Users\233\Desktop\PA\file_encryption_decryption\obj\Debug\net6.0-windows\ref\file_encryption_decryption.dll
